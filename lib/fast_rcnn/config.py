@@ -20,6 +20,7 @@ import os
 import os.path as osp
 import numpy as np
 # `pip install easydict` if you don't have it
+# construct dict as attributes 
 from easydict import EasyDict as edict
 
 __C = edict()
